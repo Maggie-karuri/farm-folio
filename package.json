@@ -55,6 +55,7 @@
     "@craco/craco": "^7.1.0",
     "@semantic-ui-react/craco-less": "^3.0.0",
     "install": "^0.13.0",
+    "node-sass": "^7.0.3",
     "npm": "^10.7.0",
     "semantic-ui-less": "^2.5.0"
   }
